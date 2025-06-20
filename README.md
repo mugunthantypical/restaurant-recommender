@@ -16,7 +16,6 @@ This project is a comprehensive restaurant recommendation system for Malaysian r
 GoogleReview_data_cleaned.csv
 GoogleReview_KL.csv
 restaurant-recommender-checkpoint.ipynb
-.dist/
 ```
 
 - **GoogleReview_data_cleaned.csv**: Cleaned review dataset for training and evaluation.
